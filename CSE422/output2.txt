@@ -1,0 +1,2 @@
+fittest at -2 and it is in 101100010 
+random parents 011000111 and 100011110 and 2point crossover is 011011111 and 100000110.
